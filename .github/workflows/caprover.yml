@@ -29,4 +29,4 @@ jobs:
           server: https://caprover.faststakdev.com
           app: 'faststack-sveltekit'
           token: '${{ secrets.APP_TOKEN }}'
-          image: 'ghcr.io/Cloud303/sukit:latest'
+          image: 'ghcr.io/cloud303-epahk/test:latest'
